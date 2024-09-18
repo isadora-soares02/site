@@ -1,0 +1,104 @@
+body{
+    color: white;
+    background: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
+    font-family: 'Unlock', sans-serif;
+}
+
+ul
+{
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+main img{
+    width: 400px;
+    height: 500px;
+    border-radius: 30%;
+    border: 5px solid wheat;
+}
+.center{
+text-align: center;
+}
+h1{
+    color: #eff3ee;
+}
+
+footer img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+footer{
+    display: flex;
+    justify-content: center;
+}
+footer a{
+    margin: 20px;
+    text-align: center;
+}
+footer p{
+    margin-top: 2px;
+    font-family: "Unlock", system-ui;
+}
+.container{
+    padding: 5px 50px;
+
+}
+nav a:hover{
+    color:#2F2325;
+}
+.containe{
+    padding: 0px 0px;
+    padding-left: 500px;
+    padding-right: 500px;
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Unlock&display=swap');
+
+.cabecalho{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+    
+}
+.cabecalho1{
+    display:flex;
+    gap: 66px;
+}
+
+.conteudo{
+        margin-bottom: 48px;
+border-top: 0.4px solid white;
+}
+
+.conteudo1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.conteudo-escrito{
+   margin-left: 50px;
+   }
+
+.imag{
+    margin-right: 180px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.texto{
+    padding: 20px;
+    margin-right: 200px;
+}
+
+.titulo{
+    margin-left: 200px;
+}
